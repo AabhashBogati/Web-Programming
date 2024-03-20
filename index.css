@@ -1,0 +1,33 @@
+.navbar{
+    background-color: olive;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 20px 20px;
+}
+
+.banner{
+    background-color: red;
+    margin-top: 80px;
+    text-align: center;
+    padding: 50px 0px;
+}
+
+#smallitachi{
+    height: 300px;
+    width: 300px;
+    filter: drop-shadow(10px 10px 10px black);
+}
+
+#itachi{
+    color:blueviolet;
+    font-size: 100px;
+}
+
+.bold{
+    font-weight: 900;
+}
